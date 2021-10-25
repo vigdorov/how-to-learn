@@ -1,0 +1,13 @@
+@import url(./__brief/two-columns__brief.css);
+@import url(./__main-text/two-columns__main-text.css);
+@import url(./__pharagraph/two-columns__pharagraph.css);
+@import url(./__span-accent/two-columns__span-accent.css);
+
+.two-columns {
+  width: 80%;
+  padding: 0;
+  display: flex;
+  margin: auto;
+  margin-bottom: 100px;
+  justify-content: space-between;
+}
